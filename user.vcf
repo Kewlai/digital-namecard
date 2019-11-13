@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Luděk;Kröhn;;;
-FN: Kröhn  Luděk 
+N:Ludek;Krohn;;;
+FN: Krohn  Ludek 
 ORG:Ger-ekoplast.LK s.r.o. ;
 TITLE:Jednatel
 EMAIL;type=INTERNET;type=WORK;type=pref:ludek.krohn@gmail.com
 TEL;type=WORK;type=VOICE:+420 702 818 805
-item1.ADR;type=WORK;type=pref:;;A.Roškotové 1857\Vlašim\, 09-01;;;258 01;Czech Republic
+item1.ADR;type=WORK;type=pref:;;A.Roskotove 1857\Vlasim\;;;258 01;Czech Republic
 item1.X-ABADR:sg
 item2.URL;type=http://www.plastove-nadrzenavodu.cz/
 item2.X-ABLabel:_$!<HomePage>!$_
